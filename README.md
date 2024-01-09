@@ -21,12 +21,12 @@
 *2 - Leidžia duomenis įvesti iš tekstinio failo*
 *3 - Sugeneruoja naujus tekstinius failus su studentų duomenimis. Vienas bendras studentų failas ir du failai su surušiuotais studentais pagal jų galutinį balą*
 
-## Programos naudojimas pasirinkus 1 arba 2 nepasikeitė nuo versijos V0.1
+## Programos naudojimas pasirinkus 1 arba 2 nepasikeitęs nuo versijos V0.1
 
-### Naudojimo instrukcija ivedus 3 ir paspaudus ENTER.
+### Naudojimo instrukcija įvedus 3 ir paspaudus ENTER.
 1. Turite įvesti kiek studentų norite sugeneruoti tekstiniame faile.
 2. Turite parašyti norimą tekstinio failo pavadinimą.
-3. Trys sugeneruoti tekstiniai failai atsiduria programos aplanke.
+*Sugeneruoti tekstiniai failai atsiduria programos aplanke*
 
 
 
