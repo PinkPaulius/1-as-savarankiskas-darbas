@@ -79,7 +79,7 @@ void Student::inputDuom() {
         std::cin >> egzaminoRezultatas;
 
         if (std::cin.fail()) {
-            std::cerr << "Neteisinga ivestis. Iveskite tinkamà numeri." << std::endl;
+            std::cerr << "Neteisinga ivestis. Iveskite tinkama numeri." << std::endl;
             std::exit(EXIT_FAILURE);
         }
 
