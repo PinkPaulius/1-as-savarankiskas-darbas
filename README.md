@@ -1,13 +1,13 @@
 # Savarankiško darbo programos versija 0.1
 ## Programa skirta apskaičiuoti studentų galutinius balus ir medianą.
 
-### Duomenys kurios priima programa:
+### Duomenys kuriuos priima programa:
 * Studentų vardai ir pavardės;
 * Studentų namų darbų pažymiai;
 * Studentų egzamino įvertinimas;
-* Taip pat naudotojui pasirinkus duomenis programa gali gauti iš tekstinio failo.
+* Taip pat programos vartotojui pasirinkus, duomenis apie studentus programa gali gauti iš tekstinio failo.
   
-### Duomenys kuriuos programa išveda:
+### Programos išvedami duomenys:
 * Lentelės formatu parodomi visi į programą įvesti studentai ir jų galutiniai balai ir medianos.
   
 ### Papildomas programos funkcionalumas:
