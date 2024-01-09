@@ -27,7 +27,7 @@
 8. Jeigu pasirenkate T - automatinį duomenų generavimą, jums reikia įvesti studento vardą bei pavardę o likusius duomenis programa sugeneruoja atsitiktiniu būdu.
 
 ## Instrukcija duomenų įvedimui iš tekstinio failo
-1. Įjungus programą įvedę T raidę pasirenkate, kad norite studentų duomenis įvesti iš tekstinio failo.
+1. Įjungus programą ir įvedę T raidę pasirenkate, kad norite studentų duomenis įvesti iš tekstinio failo.
 2. Toliau turite įvesti tekstinio failo pavadinimą (būtina nepamiršti įvesti .txt failo plėtinio).
-3. Programa lentelės formatu parodo gautus rezultatus ir surušiuoja studentus abėcėlės tvarka.
+3. Programa lentelės formatu parodo gautus rezultatus ir surūšiuoja studentus abėcėlės tvarka.
   
