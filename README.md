@@ -1,5 +1,5 @@
-# Savarankiško darbo programos versija 0.1
-## Programa skirta apskaičiuoti studentų galutinius balus ir medianą.
+# Savarankiško darbo programos versija 0.2
+## Prie buvusios V0.1 versijos pridėta galimybė generuoti studentus į naujus tekstinius failus
 
 ### Duomenys kuriuos priima programa:
 * Studentų vardai ir pavardės;
@@ -16,18 +16,18 @@
   <hr>
 # Programos naudojimosi instrukcija
 
-## Instrukcija rankiniam duomenų ivedimui
-1. Įjungus programą įvedę R raidę pasirenkate, kad norite studentų duomenis įvedinėti rankiniu būdu.
-2. Toliau galite įvesti pirmojo studento vardą bei pavardę.
-3. Programai gavus pirmojo studento vardą ir pavardę galite įvesti (t/n) - T - automatiškai sugeneruoja pažymius, N - leidžia vartotojui pačiam įvesti norimus pažymius
-4. Programa namų darbų pažymius priima iki tol kol neaptinka ENTER mygtuko paspaudimo kai įvesties langelis yra tuščias
-5. Baigus vesti namų darbų pažymius, programa paprašo įvesti egzamino įvertinimą
-6. Įvedus visus pirmojo studento duomenis programa prašo antrojo studento duomenų. Duomenu įvestis atrajam studentui veikia taip pat.
-7. Baigus įvesti antrojo studento duomenis programa lentelės formatu parodo gautus rezultatus.
-8. Jeigu pasirenkate T - automatinį duomenų generavimą, jums reikia įvesti studento vardą bei pavardę o likusius duomenis programa sugeneruoja atsitiktiniu būdu.
+## Įjungus programą galima įvesti 1 , 2 arba 3. 
+*1 - Leidžia rašyti studentų duomenis rankiniu būdu*
+*2 - Leidžia duomenis įvesti iš tekstinio failo*
+*3 - Sugeneruoja naujus tekstinius failus su studentų duomenimis. Vienas bendras studentų failas ir du failai su surušiuotais studentais pagal jų galutinį balą*
 
-## Instrukcija duomenų įvedimui iš tekstinio failo
-1. Įjungus programą ir įvedę T raidę pasirenkate, kad norite studentų duomenis įvesti iš tekstinio failo.
-2. Toliau turite įvesti tekstinio failo pavadinimą (būtina nepamiršti įvesti .txt failo plėtinio).
-3. Programa lentelės formatu parodo gautus rezultatus ir surūšiuoja studentus abėcėlės tvarka.
+### Programos naudojimas pasirinkus 1 arba 2 nepasikeitė nuo versijos V0.1
+
+# Naudojimo instrukcija ivedus 3 ir paspaudus ENTER.
+1. Turite įvesti kiek studentų norite sugeneruoti tekstiniame faile.
+2. Turite parašyti norimą tekstinio failo pavadinimą.
+3. Trys sugeneruoti tekstiniai failai atsiduria programos aplanke.
+
+
+
   
