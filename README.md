@@ -34,6 +34,34 @@
    
 *Sugeneruoti tekstiniai failai atsiduria programos aplanke*
 
+<hr>
 
+# Vector konteinerio greičio testavimas iš penkių atsitiktinai sugeneruotų studentų sąrašų failų.
+## Failai sudaryti iš: 1 000, 10 000, 100 000, 1 000 000, 10 000 000 įrašų.
+
+### 1 000 įrašų
+* Sugeneruoti vardus, pavardes, pažymius bei apskaičiuoti galutini balą užtruko 0.383749 sekundžių.
+* Surušuoti studentus į dvi grupes užtruko 0.0055635 sekundžių.
+* Studentu duomenis i visus tekstinius failus įrašyti užtruko 0.0118144 sekundžių.
+
+  ### 10 000 įrašų
+* Sugeneruoti vardus, pavardes, pažymius bei apskaičiuoti galutini balą užtruko 3.49944 sekundžių.
+* Surušuoti studentus į dvi grupes užtruko 0.0520126 sekundžių.
+* Studentu duomenis i visus tekstinius failus įrašyti užtruko 0.103558 sekundžių.
+
+  ### 100 000 įrašų
+* Sugeneruoti vardus, pavardes, pažymius bei apskaičiuoti galutini balą užtruko 13.4237 sekundžių.
+* Surušuoti studentus į dvi grupes užtruko 0.505892 sekundžių.
+* Studentu duomenis i visus tekstinius failus įrašyti užtruko 1.01566 sekundžių.
+
+  ### 1 000 000 įrašų
+* Sugeneruoti vardus, pavardes, pažymius bei apskaičiuoti galutini balą užtruko 110.87 sekundžių.
+* Surušuoti studentus į dvi grupes užtruko 5.0749 sekundžių.
+* Studentu duomenis i visus tekstinius failus įrašyti užtruko 5.0749 sekundžių.
+
+  ### 10 000 000 įrašų
+* Sugeneruoti vardus, pavardes, pažymius bei apskaičiuoti galutini balą užtruko 1134.91 sekundžių.
+* Surušuoti studentus į dvi grupes užtruko --- sekundžių.
+* Studentu duomenis i visus tekstinius failus įrašyti užtruko --- sekundžių.
 
   
